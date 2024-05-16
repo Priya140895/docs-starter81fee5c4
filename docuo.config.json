@@ -8,9 +8,9 @@
       "disableSwitch": false
     },
     "navbar": {
-      "title": "My project",
+      "title": "ATTEST",
       "logo": {
-        "light": "image/logo_light.png",
+        "light": "docs_image/Attestlogo.png",
         "dark": "image/logo_dark.png"
       },
       "items": [
